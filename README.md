@@ -1,12 +1,12 @@
 # NYC Taxi Azure Data Engineering Project
-![Azure Synapse Analytics](images/Azure Synapse Analytics.jpg)
+![Azure Synapse Analytics]([images/Azure Synapse Analytics.jpg](https://github.com/okaforoa/nyc-taxi-azure-data-engineering-project/blob/main/images/Azure%20Synapse%20Analytics.jpg))
 
 ### Introduction
 In this project, I built ETL (Extract, Transform, Load) pipelines using the NYC Taxi data using multiple services on Microsoft Azure Synapse Analytics.
 
 
 ### Solution Architecture
-![Architechure](images/Azure Synapse Analytics.jpg)
+![Architechure]([images/Azure Synapse Analytics.jpg](https://github.com/okaforoa/nyc-taxi-azure-data-engineering-project/blob/main/images/Azure%20Synapse%20Analytics.jpg))
 
 ### About Dataset/API
 This API contains information about the top 50 songs streamed in the United States. - [Spotify API](https://developer.spotify.com/documentation/web-api)

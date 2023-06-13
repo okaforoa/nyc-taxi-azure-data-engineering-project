@@ -1,15 +1,18 @@
 # NYC Taxi Azure Data Engineering Project
-![Azure Synapse Analytics]()
+![Azure Synapse Analytics](https://github.com/okaforoa/nyc-taxi-azure-data-engineering-project/blob/8404c1e5b2843024bad9557fd63fde20964e63e8/Azure%20Synapse%20Analytics.jpg)
 
 ### Introduction
-In this project, I built ETL (Extract, Transform, Load) pipelines using the NYC Taxi data using multiple services on Microsoft Azure Synapse Analytics.
+In this [Udemy course project](https://www.udemy.com/course/azure-synapse-analytics-for-data-engineers) created by Ramesh Retnasamy, I implemented a data engineering solution using all services available onAzure Synapse Analytics to analyze and report on NYC Taxi trips data.
+
+### What is Azure Synapse Analytics
+Azure Synapse Analytics is a limitless analytics service that brings together data integration, enterprise data warehousing and big data analytics. 
 
 
-### Solution Architecture
-![Architechure]([images/Azure Synapse Analytics.jpg](https://github.com/okaforoa/nyc-taxi-azure-data-engineering-project/blob/main/images/Azure%20Synapse%20Analytics.jpg))
+### Solution Architecture - Serverless SQL Pool
+![Serverless Pool](https://github.com/okaforoa/nyc-taxi-azure-data-engineering-project/blob/main/SQL%20Serverless%20Solution%20Arch.png)
 
-### About Dataset/API
-This API contains information about the top 50 songs streamed in the United States. - [Spotify API](https://developer.spotify.com/documentation/web-api)
+### About Dataset
+This data contains information NYC Green Trip data from 2020 and 2021. - [NYC Green Trip Data](https://1drv.ms/u/s!Aku-bu-I9uuYiFZRUJvhqGJ_Q9sM?e=4Fke0N)
 
 ### Services Used
 1. **Amazon S3:** Amazon S3 (Simple Storage Service) is a web-based cloud storage service by Amazon Web Services (AWS), designed for storing and retrieving data from anywhere on the web. It's known for its scalability, security, and durability, making it ideal for applications ranging from backup and restore, to content distribution and disaster recovery. 

@@ -1,5 +1,5 @@
 # NYC Taxi Azure Data Engineering Project
-![Azure Synapse Analytics]([images/Azure Synapse Analytics.jpg](https://github.com/okaforoa/nyc-taxi-azure-data-engineering-project/blob/main/images/Azure%20Synapse%20Analytics.jpg))
+![Azure Synapse Analytics](images/Azure Synapse Analytics.jpg)
 
 ### Introduction
 In this project, I built ETL (Extract, Transform, Load) pipelines using the NYC Taxi data using multiple services on Microsoft Azure Synapse Analytics.
